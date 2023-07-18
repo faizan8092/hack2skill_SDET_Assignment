@@ -1,0 +1,18 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Cypress_automation_testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "html-report" : "cypress run --browser chrome --headed"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.5.1"
+  }
+}
