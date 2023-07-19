@@ -8,7 +8,7 @@ Mochawesome Report Link:- [https://drive.google.com/file/d/1GPEVZxiQPQqsdO3vcRh7
 ## hack2Skill Manual Testing
 
 <alt src="https://www.linkpicture.com/q/h2saaa.png" alt="h2s"/>
-## Compilation of test scenarios - https://docs.google.com/spreadsheets/d/1m-as9-kLeurZpDsC--IAY0sRh5K95gXqsAdXzQrJ0v0/edit?usp=sharing
-## Bug Report - https://docs.google.com/spreadsheets/d/1mpsWwG4cvupZEbJwF3F6zyER-qAUxxYnYA4sqEEWKiE/edit?usp=sharing
+Compilation of test scenarios - https://docs.google.com/spreadsheets/d/1m-as9-kLeurZpDsC--IAY0sRh5K95gXqsAdXzQrJ0v0/edit?usp=sharing
+Bug Report - https://docs.google.com/spreadsheets/d/1mpsWwG4cvupZEbJwF3F6zyER-qAUxxYnYA4sqEEWKiE/edit?usp=sharing
 
 
