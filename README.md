@@ -1,7 +1,7 @@
 # Hack2Skill SDET Assignment
 
 <p align="center">
-  <img src="https://example.com/hack2skill-logo.png" alt="Hack2Skill Logo" width="200"/>
+  <img src="https://hack2skill.com/brandguidelines/assets/images/H2S_Gradient_Logo.svg" alt="Hack2Skill Logo" width="200"/>
 </p>
 
 Welcome to the **Hack2Skill SDET Assignment** project! This repository contains the automation and manual testing artifacts for the Hack2Skill website. In this assignment, we have used **Cypress** as our automation tool to conduct tests, and the reports are generated using **Mochawesome**.
