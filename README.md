@@ -12,7 +12,7 @@ For automating the tests in this project, we have utilized **Cypress**, a modern
 
 ## 📊 Mochawesome Report
 
-The test reports are generated using Mochawesome. You can find the detailed test report by following this [link]([https://drive.google.com/file/d/1GPEVZxiQPQqsdO3vcRh7KMCi2PS4fz-G/view](https://64b6d6086374440c011d0d14--fabulous-peony-ae43f7.netlify.app/)).
+The test reports are generated using Mochawesome. You can find the detailed test report by following this [link](https://64b6d6086374440c011d0d14--fabulous-peony-ae43f7.netlify.app/).
 
 ## 📋 Manual Testing
 
