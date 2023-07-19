@@ -5,4 +5,8 @@ Mochawesome Report Link:- [https://drive.google.com/file/d/1GPEVZxiQPQqsdO3vcRh7
 ## Mochawesome Report Screenshot
 <img src="https://www.linkpicture.com/q/reportImage.png" slt="report screenshot"/>
 
+## hack2Skill Manual Testing
+Compilation of test scenarios - https://docs.google.com/spreadsheets/d/1m-as9-kLeurZpDsC--IAY0sRh5K95gXqsAdXzQrJ0v0/edit?usp=sharing
+Bug Report - https://docs.google.com/spreadsheets/d/1mpsWwG4cvupZEbJwF3F6zyER-qAUxxYnYA4sqEEWKiE/edit?usp=sharing
+
 
