@@ -59,10 +59,6 @@ Here's a summary of the test results for each module:
 
 We welcome your feedback and suggestions! If you encounter any issues or have any suggestions for improvement, please feel free to open an issue in this repository. We value your input and are committed to making this project better.
 
-## 🙏 Contributors
 
-- [John Doe](https://github.com/johndoe)
-- [Jane Smith](https://github.com/janesmith)
-- [Sam Johnson](https://github.com/samjohnson)
 
 Thank you for your interest in our project! Happy testing!
